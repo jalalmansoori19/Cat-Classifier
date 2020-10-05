@@ -4,4 +4,4 @@ streamlit==0.67.1
 joblib==0.14.1
 h5py==2.10.0
 Pillow==7.2.0
-skimage==0.0
+skimage==0.16.2
